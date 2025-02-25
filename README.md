@@ -16,7 +16,8 @@ h1>
 
 - 📫 How to reach me **sy966051@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QJ-vwhts7hca2fbl-7BxVUDoB_3e73FM/view?usp=sharing](https://drive.google.com/file/d/1QJ-vwhts7hca2fbl-7BxVUDoB_3e73FM/view?usp=sharing)
+📄 Know about my experiences [here](https://drive.google.com/file/d/1QJ-vwhts7hca2fbl-7BxVUDoB_3e73FM/view?usp=sharing).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
