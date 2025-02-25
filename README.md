@@ -15,8 +15,8 @@ h1>
 - 👯 I’m looking to collaborate on [purplle-clone](https://saurabhyadav01.github.io/purplle.om_clone/)
 
 - 📫 How to reach me **sy966051@gmail.com**
+📄 Know about my experiences: [Link](https://drive.google.com/file/d/1UyS8CzDWMxA1jEEUY9F0Rtb1R6O59630/view)
 
-📄 Know about my experiences [here](https://drive.google.com/file/d/1QJ-vwhts7hca2fbl-7BxVUDoB_3e73FM/view?usp=sharing).
 
 
 <h3 align="left">Connect with me:</h3>
