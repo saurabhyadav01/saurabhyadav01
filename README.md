@@ -1,111 +1,66 @@
 <!-- Banner -->
-<img width="100%" src="https://github.com/saurabhyadav01/banner/blob/main/dev-banner.png" alt="developer banner"/>
+<p align="center">
+  <img src="https://i.imgur.com/ybZQZqP.png" alt="Saurabh Yadav - Full Stack Developer" width="100%" />
+</p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#FF7A00;">Saurabh Yadav</span></h1>
-<h3 align="center">Full Stack Web Developer • Backend Specialist • API Integrations Expert</h3>
+<h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
+<h3 align="center">Full Stack Web Developer | MERN & Laravel Developer</h3>
 
 <p align="center">
-  <a href="mailto:sy966051@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sy966051%40gmail.com-red?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=saurabhyadav01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: **Advanced Bewakoof & Purplle eCommerce Clones**
+- 🌱 Learning: **MERN Stack, Laravel APIs, Cloud Services**
+- 🤝 Open to collaborate on: **Full Stack Projects, APIs & Modern UI**
+- 📬 Reach me at: **sy966051@gmail.com**
+- 📄 My Resume: **[Click to View](https://drive.google.com/file/d/1UyS8CzDWMxA1jEEUY9F0Rtb1R6O59630/view)**
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/saurabh-yadav-7795731a2" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
   </a>
-  <a href="https://linkedin.com/in/saurabh-yadav-7795731a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I’m a **Full Stack Developer** passionate about building  
-**high-performance web applications, scalable APIs, automation tools, and OSINT-based platforms.**  
-
-I specialize in **Node.js, Laravel, React, Next.js, SQL, MongoDB**, and modern API architectures.
-
-✨ I write clean, optimized, secure code that solves real-world problems.
-
----
-
-## 🚀 What I Do
-
-- 🔥 Build complete **MERN & Laravel** applications  
-- 🛠 Create **secure REST APIs & backend architectures**  
-- 📡 Develop **OSINT tools, automation scripts & API integrations**  
-- ⚙️ Work with **MySQL, Sequelize ORM, MongoDB, Redis, JWT, OAuth**  
-- 📂 Build **admin dashboards**, authentication systems & payment flows  
-- 📦 Integrate **third-party services** (Razorpay, AWS S3, Firebase, Shiprocket, etc.)
-
----
-
-## 🏆 Featured Projects
-
-### 🔹 OSINT Web Platform (Professional Project)
-✔ Face Recognition  
-✔ Social Media Search  
-✔ Email/Phone Lookup  
-✔ GPS/IP Intelligence  
-✔ Credit-Based API Billing System  
-✔ Admin Dashboard (Roles, Permissions)  
-
-### 🔹 Bewakoof Clone  
-🔗 https://saurabhyadav01.github.io/bewakoof_clone/
-
-### 🔹 Purplle Clone  
-🔗 https://saurabhyadav01.github.io/purplle.om_clone/
-
----
-
-## 🛠 Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" height="48"/>
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" height="48"/>
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" height="48"/>
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,nginx,vscode,linux" height="48"/>
+## 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,php,laravel,mysql,git,github,bootstrap,tailwind" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhyadav01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhyadav01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhyadav01&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhyadav01&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhyadav01&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhyadav01&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhyadav01&theme=react-dark&hide_border=true"/>
-</p>
+## 🚀 Featured Projects
+
+🔹 **Bewakoof Clone**  
+https://saurabhyadav01.github.io/bewakoof_clone/
+
+🔹 **Purplle Clone**  
+https://saurabhyadav01.github.io/purplle.om_clone/
 
 ---
 
-## 🤝 Let’s Connect & Collaborate!
-I’m open to **freelance work, collaborations, and exciting backend challenges.**
-
-📧 Email: **sy966051@gmail.com**  
-🔗 LinkedIn: **Saurabh Yadav**
+## ⚡ Fun Fact  
+💡 I love building real-world clones, APIs, and scalable backend systems.
 
 ---
-
-### ⭐ Like what you see?
-> **Star some repositories** to support my work!  
