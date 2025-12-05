@@ -6,11 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=saurabhyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhyadav01" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabhyadav01" alt="saurabhyadav01" />
-  </a> 
-</p>
+
 
 - 🔭 Currently working on: [Bewakoof Clone](https://saurabhyadav01.github.io/bewakoof_clone/)
 - 🌱 Currently learning: **MERN Stack**
