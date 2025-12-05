@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/ybZQZqP.png" alt="Saurabh Yadav - Full Stack Developer" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
 <h3 align="center">Full Stack Web Developer | MERN & Laravel Developer</h3>
